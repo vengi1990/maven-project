@@ -45,7 +45,7 @@ public static void main(String[] args) throws Throwable {
 	
 	click(s.getSc().getProceed1());
 	implicit();
-	inputvalue(s.getSc().getMessage(), "deleiver my order asap");
+	inputvalue(s.getSc().getMessage(), "deleiver my order as soon as possible");
 	click(s.getSc().getProceed2());
 	implicit();
 	click(s.getSc().getCheckbox());

@@ -43,8 +43,8 @@ public static void main(String[] args) throws Throwable {
 	inputvalue(s.getC().getZip(),"62073");
 	thread(4000);	
 	inputvalue(s.getC().getHome(),"043162073");
-	inputvalue(s.getC().getMobile(),"9965869078");	
-	inputvalue(s.getC().getMyadd(),"Trichy");	
+	inputvalue(s.getC().getMobile(),"9894969078");	
+	inputvalue(s.getC().getMyadd(),"chennai");	
 	click(s.getC().getRegister());
 	thread(4000);
 	screenshot();
